@@ -1,7 +1,7 @@
 # Oleg Korzh
 ---
 
-## Junior Frontend Developer
+## Junior Frontend Developer:
 ---
 
 ## Contact Information:
@@ -9,7 +9,7 @@
 **E-mail**: oleq.korgit@gmail.com
 ---
 
-## About Myself
+## About Myself:
 I plan to become a professional frontend developer and always do what I love. Already know html/css/js
 ---
 
@@ -20,11 +20,21 @@ I plan to become a professional frontend developer and always do what I love. Al
 - Git, GitHub
 - VS Code
 
-## Experience
+## Experience:
 No experience
 
-## Code example
+## Code example:
 Console output greeting
 
 ```javascript
 console.log("Hello, World!");
+```
+---
+
+## Education:
+- **Bachelor's Degree** in Forestry, 2021
+
+## Languages:
+- English - A2
+- Russian - Native
+- Ukrainian - Native
